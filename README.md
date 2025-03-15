@@ -1,6 +1,6 @@
-# 【2025年3月更新】国内 ChatGPT 镜像网站推荐（支持 GPT-4 和 4o，无需翻墙）
+# 【2025年3月更新】国内 ChatGPT 镜像网站推荐（支持 GPT-4 和 4o、GPT-o1、GPT-o3、Deepseek、Grok3，无需翻墙）
 
-> 最后更新：2025/03/13
+> 最后更新：2025/03/16
 
 在本仓库中，我们精心整理了一系列国内可用的 ChatGPT 镜像网站，无须翻墙、注册账号即可享受全部功能。本仓库将逐步揭示这些镜像站的用途和使用方法，让您在正常网络下也能无障碍使用 ChatGPT。
 
@@ -19,7 +19,7 @@ ChatGPT 镜像网站是指创建一个与官方的 ChatGPT 网站内容和功能
 
 ## 国内 ChatGPT 镜像站资源
 
-- [https://songshugpt.com](https://songshugpt.com) - 支持 GPT4、4o 以及 o1，支持 MJ 绘画
+- [https://songshugpt.com](https://songshugpt.com) - 支持 GPT4、4o 以及GPT-o1、GPT-o3、Deepseek、Grok3，支持 MJ 绘画
 - [https://gptdog.online/](https://gptdog.online/) - 支持 GPT4、4o 以及 o1
 - [gptcat.net ](https://gptcat.net)  - 支持 GPT4、4o
 - [ai-panda.xyz ](https://ai-panda.xyz ) - 支持 GPT4、4o 支持 MJ 绘画
